@@ -1,9 +1,7 @@
-#include <iostream>
-
-using namespace std;
+#include "header.h"
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    helloWorld();
     return 0;
 }

@@ -2,6 +2,7 @@
 
 int main()
 {
-    helloWorld();
+    classWork();
+    //funFunc();
     return 0;
 }

@@ -25,7 +25,12 @@ int funFunc()
             cout << "\nLets have a journey of Appledorm.\n";
             break;
         case(3):
-            cout << "\nInitializing Watson\n";
+            cout << "\nInitializing Watson...\n\n";
+            cout << "\t****************" << endl;
+            cout << "\t*     IBM      *" << endl;
+            cout << "\t* W.A.T.S.O.N  *" << endl;
+            cout << "\t*              *" << endl;
+            cout << "\t****************" << endl;
             break;
         default:
             cout << "\nInvalid Choice... Terminating System!";

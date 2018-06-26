@@ -3,7 +3,7 @@
 int helloWorld();
 int funFunc();
 void projectOne();
-int classWork();
+void classWork();
 void projectSandBox();
 
 #endif // HEADER_H_INCLUDED

@@ -2,7 +2,7 @@
 1529969108 source:c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\main.cpp
 	"header.h"
 
-1529598767 c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\header.h
+1529975047 c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\header.h
 
 1529547511 source:c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\helloworld.cpp
 	"header.h"
@@ -18,7 +18,7 @@
 	<conio.h>
 	<cstdlib>
 
-1529973277 source:c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\classwork.cpp
+1529975409 source:c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\classwork.cpp
 	"header.h"
 	<iostream>
 
@@ -26,4 +26,8 @@
 	<iostream>
 	<conio.h>
 	<cstdlib>
+
+1529975458 source:c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\projectcalc.cpp
+	"header.h"
+	<iostream>
 

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1529969108 source:c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\main.cpp
+1529977959 source:c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\main.cpp
 	"header.h"
 
 1529975047 c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\header.h
@@ -18,8 +18,10 @@
 	<conio.h>
 	<cstdlib>
 
-1529975409 source:c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\classwork.cpp
+1530148340 source:c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\classwork.cpp
 	"header.h"
+	<iomanip>
+	<cmath>
 	<iostream>
 
 1529962656 source:c:\users\mjhos\desktop\lagcc\assignments\mac101\introcpp\projectsandbox.cpp

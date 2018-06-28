@@ -37,6 +37,7 @@
 		<Unit filename="header.h" />
 		<Unit filename="helloWorld.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="projectCalc.cpp" />
 		<Unit filename="projectOne.cpp" />
 		<Unit filename="projectSandBox.cpp" />
 		<Extensions>
